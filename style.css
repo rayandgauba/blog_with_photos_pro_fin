@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.selection-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+div{
+    margin-top: 15px;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
